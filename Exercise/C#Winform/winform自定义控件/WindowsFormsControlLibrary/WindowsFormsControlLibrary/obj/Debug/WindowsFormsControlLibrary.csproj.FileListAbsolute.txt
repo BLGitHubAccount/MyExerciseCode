@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\C#\练习\winform自定义控件\WindowsFormsControlLibrary\WindowsFormsControlLibrary\bin\Debug\WindowsFormsControlLibrary.dll
+C:\Users\Administrator\Desktop\C#\练习\winform自定义控件\WindowsFormsControlLibrary\WindowsFormsControlLibrary\bin\Debug\WindowsFormsControlLibrary.pdb
+C:\Users\Administrator\Desktop\C#\练习\winform自定义控件\WindowsFormsControlLibrary\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\练习\winform自定义控件\WindowsFormsControlLibrary\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.dll
+C:\Users\Administrator\Desktop\C#\练习\winform自定义控件\WindowsFormsControlLibrary\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.pdb
+C:\Users\Administrator\Desktop\C#\练习\winform自定义控件\WindowsFormsControlLibrary\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.ucLogin.resources
+D:\开发资料\Exercise\C#Winform\winform自定义控件\WindowsFormsControlLibrary\WindowsFormsControlLibrary\bin\Debug\WindowsFormsControlLibrary.dll
+D:\开发资料\Exercise\C#Winform\winform自定义控件\WindowsFormsControlLibrary\WindowsFormsControlLibrary\bin\Debug\WindowsFormsControlLibrary.pdb
+D:\开发资料\Exercise\C#Winform\winform自定义控件\WindowsFormsControlLibrary\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.csprojResolveAssemblyReference.cache
+D:\开发资料\Exercise\C#Winform\winform自定义控件\WindowsFormsControlLibrary\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.ucLogin.resources
+D:\开发资料\Exercise\C#Winform\winform自定义控件\WindowsFormsControlLibrary\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.csproj.GenerateResource.Cache
+D:\开发资料\Exercise\C#Winform\winform自定义控件\WindowsFormsControlLibrary\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.dll
+D:\开发资料\Exercise\C#Winform\winform自定义控件\WindowsFormsControlLibrary\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.pdb

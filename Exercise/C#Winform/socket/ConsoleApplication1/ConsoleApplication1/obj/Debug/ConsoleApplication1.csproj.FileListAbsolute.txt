@@ -1,0 +1,6 @@
+D:\开发资料\Exercise\C#Winform\socket\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\开发资料\Exercise\C#Winform\socket\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\开发资料\Exercise\C#Winform\socket\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\开发资料\Exercise\C#Winform\socket\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\开发资料\Exercise\C#Winform\socket\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\开发资料\Exercise\C#Winform\socket\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\C#\练习\CsharpconnectSql\CsharpconnectSql\bin\Debug\CsharpconnectSql.exe.config
+C:\Users\Administrator\Desktop\C#\练习\CsharpconnectSql\CsharpconnectSql\obj\Debug\CsharpconnectSql.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\练习\CsharpconnectSql\CsharpconnectSql\obj\Debug\CsharpconnectSql.Form1.resources
+C:\Users\Administrator\Desktop\C#\练习\CsharpconnectSql\CsharpconnectSql\obj\Debug\CsharpconnectSql.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\练习\CsharpconnectSql\CsharpconnectSql\obj\Debug\CsharpconnectSql.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\练习\CsharpconnectSql\CsharpconnectSql\bin\Debug\CsharpconnectSql.exe
+C:\Users\Administrator\Desktop\C#\练习\CsharpconnectSql\CsharpconnectSql\bin\Debug\CsharpconnectSql.pdb
+C:\Users\Administrator\Desktop\C#\练习\CsharpconnectSql\CsharpconnectSql\obj\Debug\CsharpconnectSql.exe
+C:\Users\Administrator\Desktop\C#\练习\CsharpconnectSql\CsharpconnectSql\obj\Debug\CsharpconnectSql.pdb

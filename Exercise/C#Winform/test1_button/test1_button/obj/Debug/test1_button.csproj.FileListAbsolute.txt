@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\C#\练习\test1_button\test1_button\bin\Debug\test1_button.exe.config
+C:\Users\Administrator\Desktop\C#\练习\test1_button\test1_button\bin\Debug\test1_button.exe
+C:\Users\Administrator\Desktop\C#\练习\test1_button\test1_button\bin\Debug\test1_button.pdb
+C:\Users\Administrator\Desktop\C#\练习\test1_button\test1_button\obj\Debug\test1_button.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\练习\test1_button\test1_button\obj\Debug\test1_button.Form1.resources
+C:\Users\Administrator\Desktop\C#\练习\test1_button\test1_button\obj\Debug\test1_button.Form2.resources
+C:\Users\Administrator\Desktop\C#\练习\test1_button\test1_button\obj\Debug\test1_button.Form3.resources
+C:\Users\Administrator\Desktop\C#\练习\test1_button\test1_button\obj\Debug\test1_button.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\练习\test1_button\test1_button\obj\Debug\test1_button.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\练习\test1_button\test1_button\obj\Debug\test1_button.exe
+C:\Users\Administrator\Desktop\C#\练习\test1_button\test1_button\obj\Debug\test1_button.pdb

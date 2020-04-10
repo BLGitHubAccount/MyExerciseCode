@@ -1,0 +1,8 @@
+D:\开发资料\Exercise\C#Winform\WebServiceTest\WebServiceTest\bin\Debug\WebServiceTest.exe.config
+D:\开发资料\Exercise\C#Winform\WebServiceTest\WebServiceTest\bin\Debug\WebServiceTest.exe
+D:\开发资料\Exercise\C#Winform\WebServiceTest\WebServiceTest\bin\Debug\WebServiceTest.pdb
+D:\开发资料\Exercise\C#Winform\WebServiceTest\WebServiceTest\obj\Debug\WebServiceTest.csprojResolveAssemblyReference.cache
+D:\开发资料\Exercise\C#Winform\WebServiceTest\WebServiceTest\obj\Debug\WebServiceTest.Properties.Resources.resources
+D:\开发资料\Exercise\C#Winform\WebServiceTest\WebServiceTest\obj\Debug\WebServiceTest.csproj.GenerateResource.Cache
+D:\开发资料\Exercise\C#Winform\WebServiceTest\WebServiceTest\obj\Debug\WebServiceTest.exe
+D:\开发资料\Exercise\C#Winform\WebServiceTest\WebServiceTest\obj\Debug\WebServiceTest.pdb

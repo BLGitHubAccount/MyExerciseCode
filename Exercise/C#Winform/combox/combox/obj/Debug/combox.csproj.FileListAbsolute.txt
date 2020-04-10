@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\C#\练习\combox\combox\bin\Debug\combox.exe.config
+C:\Users\Administrator\Desktop\C#\练习\combox\combox\bin\Debug\combox.exe
+C:\Users\Administrator\Desktop\C#\练习\combox\combox\bin\Debug\combox.pdb
+C:\Users\Administrator\Desktop\C#\练习\combox\combox\obj\Debug\combox.Form1.resources
+C:\Users\Administrator\Desktop\C#\练习\combox\combox\obj\Debug\combox.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\练习\combox\combox\obj\Debug\combox.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\练习\combox\combox\obj\Debug\combox.exe
+C:\Users\Administrator\Desktop\C#\练习\combox\combox\obj\Debug\combox.pdb
+C:\Users\Administrator\Desktop\C#\练习\combox\combox\obj\Debug\combox.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\C#\练习\datagridviewgetvalues\datagridviewgetvalues\bin\Debug\datagridviewgetvalues.exe.config
+C:\Users\Administrator\Desktop\C#\练习\datagridviewgetvalues\datagridviewgetvalues\bin\Debug\datagridviewgetvalues.exe
+C:\Users\Administrator\Desktop\C#\练习\datagridviewgetvalues\datagridviewgetvalues\bin\Debug\datagridviewgetvalues.pdb
+C:\Users\Administrator\Desktop\C#\练习\datagridviewgetvalues\datagridviewgetvalues\obj\Debug\datagridviewgetvalues.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\练习\datagridviewgetvalues\datagridviewgetvalues\obj\Debug\datagridviewgetvalues.Form1.resources
+C:\Users\Administrator\Desktop\C#\练习\datagridviewgetvalues\datagridviewgetvalues\obj\Debug\datagridviewgetvalues.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\练习\datagridviewgetvalues\datagridviewgetvalues\obj\Debug\datagridviewgetvalues.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\练习\datagridviewgetvalues\datagridviewgetvalues\obj\Debug\datagridviewgetvalues.exe
+C:\Users\Administrator\Desktop\C#\练习\datagridviewgetvalues\datagridviewgetvalues\obj\Debug\datagridviewgetvalues.pdb

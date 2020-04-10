@@ -1,0 +1,5 @@
+D:\C#Practice\Reflection\Animal.sdk\bin\Debug\Animal.sdk.dll
+D:\C#Practice\Reflection\Animal.sdk\bin\Debug\Animal.sdk.pdb
+D:\C#Practice\Reflection\Animal.sdk\obj\Debug\Animal.sdk.csprojResolveAssemblyReference.cache
+D:\C#Practice\Reflection\Animal.sdk\obj\Debug\Animal.sdk.dll
+D:\C#Practice\Reflection\Animal.sdk\obj\Debug\Animal.sdk.pdb

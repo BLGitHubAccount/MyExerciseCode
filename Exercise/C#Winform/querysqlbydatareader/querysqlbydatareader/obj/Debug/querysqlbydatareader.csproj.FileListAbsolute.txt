@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\C#\练习\querysqlbydatareader\querysqlbydatareader\bin\Debug\querysqlbydatareader.exe.config
+C:\Users\Administrator\Desktop\C#\练习\querysqlbydatareader\querysqlbydatareader\bin\Debug\querysqlbydatareader.exe
+C:\Users\Administrator\Desktop\C#\练习\querysqlbydatareader\querysqlbydatareader\bin\Debug\querysqlbydatareader.pdb
+C:\Users\Administrator\Desktop\C#\练习\querysqlbydatareader\querysqlbydatareader\obj\Debug\querysqlbydatareader.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\练习\querysqlbydatareader\querysqlbydatareader\obj\Debug\querysqlbydatareader.exe
+C:\Users\Administrator\Desktop\C#\练习\querysqlbydatareader\querysqlbydatareader\obj\Debug\querysqlbydatareader.pdb

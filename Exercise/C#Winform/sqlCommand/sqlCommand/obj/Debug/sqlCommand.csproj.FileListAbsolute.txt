@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\C#\练习\sqlCommand\sqlCommand\bin\Debug\sqlCommand.exe.config
+C:\Users\Administrator\Desktop\C#\练习\sqlCommand\sqlCommand\bin\Debug\sqlCommand.exe
+C:\Users\Administrator\Desktop\C#\练习\sqlCommand\sqlCommand\bin\Debug\sqlCommand.pdb
+C:\Users\Administrator\Desktop\C#\练习\sqlCommand\sqlCommand\obj\Debug\sqlCommand.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\练习\sqlCommand\sqlCommand\obj\Debug\sqlCommand.exe
+C:\Users\Administrator\Desktop\C#\练习\sqlCommand\sqlCommand\obj\Debug\sqlCommand.pdb

@@ -1,0 +1,6 @@
+E:\开发资料\Exercise\MultiThreadedLearning\1.4.2线程等待\bin\Debug\1.4.2线程等待.exe.config
+E:\开发资料\Exercise\MultiThreadedLearning\1.4.2线程等待\bin\Debug\1.4.2线程等待.exe
+E:\开发资料\Exercise\MultiThreadedLearning\1.4.2线程等待\bin\Debug\1.4.2线程等待.pdb
+E:\开发资料\Exercise\MultiThreadedLearning\1.4.2线程等待\obj\Debug\1.4.2线程等待.csprojResolveAssemblyReference.cache
+E:\开发资料\Exercise\MultiThreadedLearning\1.4.2线程等待\obj\Debug\1.4.2线程等待.exe
+E:\开发资料\Exercise\MultiThreadedLearning\1.4.2线程等待\obj\Debug\1.4.2线程等待.pdb

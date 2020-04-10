@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\C#\练习\线程\thread\thread\bin\Debug\thread.exe.config
+C:\Users\Administrator\Desktop\C#\练习\线程\thread\thread\bin\Debug\thread.exe
+C:\Users\Administrator\Desktop\C#\练习\线程\thread\thread\bin\Debug\thread.pdb
+C:\Users\Administrator\Desktop\C#\练习\线程\thread\thread\obj\Debug\thread.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\练习\线程\thread\thread\obj\Debug\thread.exe
+C:\Users\Administrator\Desktop\C#\练习\线程\thread\thread\obj\Debug\thread.pdb

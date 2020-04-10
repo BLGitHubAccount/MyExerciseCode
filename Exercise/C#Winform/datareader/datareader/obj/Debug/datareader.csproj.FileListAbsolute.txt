@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\C#\练习\datareader\datareader\bin\Debug\datareader.exe.config
+C:\Users\Administrator\Desktop\C#\练习\datareader\datareader\bin\Debug\datareader.exe
+C:\Users\Administrator\Desktop\C#\练习\datareader\datareader\bin\Debug\datareader.pdb
+C:\Users\Administrator\Desktop\C#\练习\datareader\datareader\obj\Debug\datareader.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\练习\datareader\datareader\obj\Debug\datareader.exe
+C:\Users\Administrator\Desktop\C#\练习\datareader\datareader\obj\Debug\datareader.pdb

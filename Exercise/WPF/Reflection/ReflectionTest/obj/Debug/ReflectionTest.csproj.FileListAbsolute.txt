@@ -1,0 +1,8 @@
+D:\C#Practice\Reflection\ReflectionTest\bin\Debug\ReflectionTest.exe.config
+D:\C#Practice\Reflection\ReflectionTest\bin\Debug\ReflectionTest.exe
+D:\C#Practice\Reflection\ReflectionTest\bin\Debug\ReflectionTest.pdb
+D:\C#Practice\Reflection\ReflectionTest\bin\Debug\Animal.sdk.dll
+D:\C#Practice\Reflection\ReflectionTest\bin\Debug\Animal.sdk.pdb
+D:\C#Practice\Reflection\ReflectionTest\obj\Debug\ReflectionTest.csprojResolveAssemblyReference.cache
+D:\C#Practice\Reflection\ReflectionTest\obj\Debug\ReflectionTest.exe
+D:\C#Practice\Reflection\ReflectionTest\obj\Debug\ReflectionTest.pdb

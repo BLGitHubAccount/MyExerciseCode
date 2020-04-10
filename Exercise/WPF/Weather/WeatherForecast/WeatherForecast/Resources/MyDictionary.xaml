@@ -1,0 +1,18 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"                   
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+    <sys:String x:Key="Province">省份:</sys:String>
+    <sys:String x:Key="City">城市:</sys:String>
+    <sys:String x:Key="TodayWeather">今日天气</sys:String>
+    <sys:String x:Key="WeatherTrend">天气趋势</sys:String>
+    <sys:String x:Key="Inquire">查询</sys:String>
+    <sys:String x:Key="temperature">温度:</sys:String>
+    <sys:String x:Key="LivingIndex">生活指数:</sys:String>
+    <sys:String x:Key="CityIntroduction">城市简介:</sys:String>
+    <sys:String x:Key="Date">日期:</sys:String>
+    <sys:String x:Key="Overview">概况:</sys:String>
+    <sys:String x:Key="WindDirection">风向:</sys:String>
+    <sys:String x:Key="Trend">趋势图:</sys:String>
+    <sys:String x:Key="Forecast">天气预报:</sys:String>
+    <sys:String x:Key="LastUpdateTime">最后更新时间:</sys:String>
+</ResourceDictionary>

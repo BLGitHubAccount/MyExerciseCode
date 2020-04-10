@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\C#\练习\dataadapter\dataadapter\bin\Debug\dataadapter.exe.config
+C:\Users\Administrator\Desktop\C#\练习\dataadapter\dataadapter\bin\Debug\dataadapter.exe
+C:\Users\Administrator\Desktop\C#\练习\dataadapter\dataadapter\bin\Debug\dataadapter.pdb
+C:\Users\Administrator\Desktop\C#\练习\dataadapter\dataadapter\obj\Debug\dataadapter.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\练习\dataadapter\dataadapter\obj\Debug\dataadapter.exe
+C:\Users\Administrator\Desktop\C#\练习\dataadapter\dataadapter\obj\Debug\dataadapter.pdb

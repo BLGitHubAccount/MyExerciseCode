@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\C#\练习\读懂反射\ReflectionDemo\ReflectionDemo\bin\Debug\ReflectionDemo.exe.config
+C:\Users\Administrator\Desktop\C#\练习\读懂反射\ReflectionDemo\ReflectionDemo\bin\Debug\ReflectionDemo.exe
+C:\Users\Administrator\Desktop\C#\练习\读懂反射\ReflectionDemo\ReflectionDemo\bin\Debug\ReflectionDemo.pdb
+C:\Users\Administrator\Desktop\C#\练习\读懂反射\ReflectionDemo\ReflectionDemo\obj\Debug\ReflectionDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\练习\读懂反射\ReflectionDemo\ReflectionDemo\obj\Debug\ReflectionDemo.exe
+C:\Users\Administrator\Desktop\C#\练习\读懂反射\ReflectionDemo\ReflectionDemo\obj\Debug\ReflectionDemo.pdb

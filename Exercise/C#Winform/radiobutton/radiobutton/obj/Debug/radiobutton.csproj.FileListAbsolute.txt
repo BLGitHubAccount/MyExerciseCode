@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\C#\练习\radiobutton\radiobutton\bin\Debug\radiobutton.exe.config
+C:\Users\Administrator\Desktop\C#\练习\radiobutton\radiobutton\bin\Debug\radiobutton.exe
+C:\Users\Administrator\Desktop\C#\练习\radiobutton\radiobutton\bin\Debug\radiobutton.pdb
+C:\Users\Administrator\Desktop\C#\练习\radiobutton\radiobutton\obj\Debug\radiobutton.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\练习\radiobutton\radiobutton\obj\Debug\radiobutton.Form1.resources
+C:\Users\Administrator\Desktop\C#\练习\radiobutton\radiobutton\obj\Debug\radiobutton.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\练习\radiobutton\radiobutton\obj\Debug\radiobutton.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\练习\radiobutton\radiobutton\obj\Debug\radiobutton.exe
+C:\Users\Administrator\Desktop\C#\练习\radiobutton\radiobutton\obj\Debug\radiobutton.pdb

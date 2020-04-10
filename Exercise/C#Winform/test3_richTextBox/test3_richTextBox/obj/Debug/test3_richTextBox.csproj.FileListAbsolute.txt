@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\C#\练习\test3_richTextBox\test3_richTextBox\bin\Debug\test3_richTextBox.exe.config
+C:\Users\Administrator\Desktop\C#\练习\test3_richTextBox\test3_richTextBox\bin\Debug\test3_richTextBox.exe
+C:\Users\Administrator\Desktop\C#\练习\test3_richTextBox\test3_richTextBox\bin\Debug\test3_richTextBox.pdb
+C:\Users\Administrator\Desktop\C#\练习\test3_richTextBox\test3_richTextBox\obj\Debug\test3_richTextBox.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\练习\test3_richTextBox\test3_richTextBox\obj\Debug\test3_richTextBox.Form1.resources
+C:\Users\Administrator\Desktop\C#\练习\test3_richTextBox\test3_richTextBox\obj\Debug\test3_richTextBox.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\练习\test3_richTextBox\test3_richTextBox\obj\Debug\test3_richTextBox.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\练习\test3_richTextBox\test3_richTextBox\obj\Debug\test3_richTextBox.exe
+C:\Users\Administrator\Desktop\C#\练习\test3_richTextBox\test3_richTextBox\obj\Debug\test3_richTextBox.pdb

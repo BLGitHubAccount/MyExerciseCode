@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\C#\练习\connectiondatabase\connectiondatabase\bin\Debug\connectiondatabase.exe.config
+C:\Users\Administrator\Desktop\C#\练习\connectiondatabase\connectiondatabase\bin\Debug\connectiondatabase.exe
+C:\Users\Administrator\Desktop\C#\练习\connectiondatabase\connectiondatabase\bin\Debug\connectiondatabase.pdb
+C:\Users\Administrator\Desktop\C#\练习\connectiondatabase\connectiondatabase\obj\Debug\connectiondatabase.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\练习\connectiondatabase\connectiondatabase\obj\Debug\connectiondatabase.exe
+C:\Users\Administrator\Desktop\C#\练习\connectiondatabase\connectiondatabase\obj\Debug\connectiondatabase.pdb

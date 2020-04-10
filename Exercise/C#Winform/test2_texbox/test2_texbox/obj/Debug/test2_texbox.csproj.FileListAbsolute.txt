@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\C#\练习\test2_texbox\test2_texbox\bin\Debug\test2_texbox.exe.config
+C:\Users\Administrator\Desktop\C#\练习\test2_texbox\test2_texbox\bin\Debug\test2_texbox.exe
+C:\Users\Administrator\Desktop\C#\练习\test2_texbox\test2_texbox\bin\Debug\test2_texbox.pdb
+C:\Users\Administrator\Desktop\C#\练习\test2_texbox\test2_texbox\obj\Debug\test2_texbox.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\练习\test2_texbox\test2_texbox\obj\Debug\test2_texbox.Form1.resources
+C:\Users\Administrator\Desktop\C#\练习\test2_texbox\test2_texbox\obj\Debug\test2_texbox.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\练习\test2_texbox\test2_texbox\obj\Debug\test2_texbox.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\练习\test2_texbox\test2_texbox\obj\Debug\test2_texbox.exe
+C:\Users\Administrator\Desktop\C#\练习\test2_texbox\test2_texbox\obj\Debug\test2_texbox.pdb

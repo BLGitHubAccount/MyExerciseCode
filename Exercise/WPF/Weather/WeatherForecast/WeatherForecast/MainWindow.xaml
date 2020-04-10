@@ -1,0 +1,139 @@
+﻿<Window x:Class="WeatherForecast.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WeatherForecast"
+        xmlns:control="clr-namespace:WeatherForecast.Controls"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="570" Width="640" Loaded="Window_Loaded" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal">
+            <TextBlock Text="{StaticResource Province}" Margin="73,0,0,0" Height="30" Width="50" FontSize="20" />
+            <control:ComboBoxWithCommand x:Name="comboxp" Width="116" Height="30" Margin="18,0,0,0" 
+                 DisplayMemberPath="Name" ItemsSource="{Binding ProinceList,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"
+                     Command="{Binding InquireCommand}" CommandParameter="{Binding SelectProvince}"
+                      SelectedItem="{Binding SelectProvince,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"/>            
+            <TextBlock Text="{StaticResource City}" Margin="50,0,0,0" Height="30" Width="50" FontSize="20" />
+            <control:ComboBoxWithCommand Width="116" Height="30" Margin="18,0,0,0" 
+                      ItemsSource="{Binding CityList}"
+                      DisplayMemberPath="Name"
+                     
+                      SelectedItem="{Binding SelectCity }"/>
+            <Button Width="66" Height="30" Margin="40,0,0,0"
+                    Content="{StaticResource Inquire}" FontSize="18"
+                    Command="{Binding InquireCommand}"
+                    />
+        </StackPanel>
+        <StackPanel  Grid.Row="3">
+            <TabControl Height="488" Width="629">
+                <TabItem Header="{StaticResource TodayWeather}">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="20"/>
+                            <RowDefinition Height="20"/>
+                            <RowDefinition Height="20"/>
+                            <RowDefinition Height="20"/>
+                            <RowDefinition Height="20"/>
+                            <RowDefinition Height="160"/>
+                            <RowDefinition Height="50"/>
+                            <RowDefinition Height="180"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <StackPanel Orientation="Horizontal" Grid.Row="1">
+                            <TextBlock Height="20" Width="80" Margin="160,0,0,0" Text="{StaticResource LastUpdateTime}"/>
+                            <TextBlock Height="20" Width="80" Margin="25,0,0,0" Text="{Binding WeatherViewModel.WeatherModel.TodayWeather.UpdateTime}"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Grid.Row="2">
+                            <TextBlock Height="20" Width="80" Margin="30,0,0,0" Text="{StaticResource temperature}"/>
+                            <TextBlock Height="20" Width="80" Margin="25,0,0,0" Text="{Binding WeatherViewModel.WeatherModel.TodayWeather.Temperature}"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Grid.Row="4">
+                            <TextBlock Height="20" Width="80" Margin="30,0,0,0" Text="{StaticResource LivingIndex}"/>
+                            <ListView Height="Auto" Width="300" Margin="25,0,0,0" ItemsSource="{Binding WeatherViewModel.WeatherModel.TodayWeather.LifeList}"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Grid.Row="6">
+                            <TextBlock Height="20" Width="80" Margin="30,0,0,0" Text="{StaticResource CityIntroduction}"/>
+                            <TextBlock Height="Auto" Width="Auto" Margin="25,0,0,0" Text="{Binding WeatherViewModel.WeatherModel.TodayWeather.CityIntroduction}"/>
+                        </StackPanel>
+                    </Grid>
+                </TabItem>
+                <TabItem Header="{StaticResource WeatherTrend}">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="75"/>
+                            <RowDefinition Height="15"/>
+                            <RowDefinition Height="30"/>
+                            <RowDefinition Height="15"/>
+                            <RowDefinition Height="55"/>
+                            <RowDefinition Height="15"/>
+                            <RowDefinition Height="55"/>
+                            <RowDefinition Height="15"/>
+                            <RowDefinition Height="60"/>
+                            <RowDefinition Height="15"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <StackPanel Orientation="Horizontal" Grid.Row="1">
+                            <TextBlock Height="15" Width="25" Margin="25,0,0,0" Text="{StaticResource Date}"/>
+                            <ListBox Height="15" Width="470" Margin="68,0,0,0" ItemsSource="{Binding WeatherViewModel.WeatherTrends.DateList}">
+                                <ListBox.ItemsPanel>
+                                    <ItemsPanelTemplate>
+                                        <StackPanel Orientation="Horizontal"/>
+                                    </ItemsPanelTemplate>
+                                </ListBox.ItemsPanel>    
+                            </ListBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Grid.Row="3">
+                            <TextBlock Height="15" Width="25" Margin="25,0,0,0" Text="{StaticResource temperature}"/>
+                            <ListBox Height="15" Width="470" Margin="68,0,0,0" ItemsSource="{Binding WeatherViewModel.WeatherTrends.TemperatureList}">
+                                <ListBox.ItemsPanel>
+                                    <ItemsPanelTemplate>
+                                        <StackPanel Orientation="Horizontal"/>
+                                    </ItemsPanelTemplate>
+                                </ListBox.ItemsPanel>
+                            </ListBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Grid.Row="5">
+                            <TextBlock Height="15" Width="25" Margin="25,0,0,0" Text="{StaticResource Overview}"/>
+                            <ListBox Height="15" Width="470" Margin="68,0,0,0" ItemsSource="{Binding WeatherViewModel.WeatherTrends.OverviewList}">
+                                <ListBox.ItemsPanel>
+                                    <ItemsPanelTemplate>
+                                        <StackPanel Orientation="Horizontal"/>
+                                    </ItemsPanelTemplate>
+                                </ListBox.ItemsPanel>
+                            </ListBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Grid.Row="7">
+                            <TextBlock Height="15" Width="25" Margin="25,0,0,0" Text="{StaticResource WindDirection}"/>
+                            <ListBox Height="15" Width="470" Margin="68,0,0,0" ItemsSource="{Binding WeatherViewModel.WeatherTrends.WindDirectionList}">
+                                <ListBox.ItemsPanel>
+                                    <ItemsPanelTemplate>
+                                        <StackPanel Orientation="Horizontal"/>
+                                    </ItemsPanelTemplate>
+                                </ListBox.ItemsPanel>
+                            </ListBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Grid.Row="9">
+                            <TextBlock Height="15" Width="40" Margin="10,0,0,0" Text="{StaticResource Trend}"/>
+                            <ListBox Height="15" Width="470" Margin="68,0,0,0" ItemsSource="{Binding WeatherViewModel.WeatherTrends.TrendList}">
+                                <ListBox.ItemsPanel>
+                                    <ItemsPanelTemplate>
+                                        <StackPanel Orientation="Horizontal"/>
+                                    </ItemsPanelTemplate>
+                                </ListBox.ItemsPanel>
+                            </ListBox>
+                        </StackPanel>
+                    </Grid>
+                   
+                </TabItem>
+            </TabControl>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\C#\练习\读懂反射\WindowsFormsApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Administrator\Desktop\C#\练习\读懂反射\WindowsFormsApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Administrator\Desktop\C#\练习\读懂反射\WindowsFormsApplication1\UnitTestProject1\bin\Debug\Castle.Core.dll
+C:\Users\Administrator\Desktop\C#\练习\读懂反射\WindowsFormsApplication1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Administrator\Desktop\C#\练习\读懂反射\WindowsFormsApplication1\UnitTestProject1\bin\Debug\Moq.dll
+C:\Users\Administrator\Desktop\C#\练习\读懂反射\WindowsFormsApplication1\UnitTestProject1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\C#\练习\读懂反射\WindowsFormsApplication1\UnitTestProject1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\C#\练习\读懂反射\WindowsFormsApplication1\UnitTestProject1\bin\Debug\Castle.Core.xml
+C:\Users\Administrator\Desktop\C#\练习\读懂反射\WindowsFormsApplication1\UnitTestProject1\bin\Debug\Moq.xml
+C:\Users\Administrator\Desktop\C#\练习\读懂反射\WindowsFormsApplication1\UnitTestProject1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\C#\练习\读懂反射\WindowsFormsApplication1\UnitTestProject1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Desktop\C#\练习\读懂反射\WindowsFormsApplication1\UnitTestProject1\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Administrator\Desktop\C#\练习\读懂反射\WindowsFormsApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\练习\读懂反射\WindowsFormsApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Administrator\Desktop\C#\练习\读懂反射\WindowsFormsApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

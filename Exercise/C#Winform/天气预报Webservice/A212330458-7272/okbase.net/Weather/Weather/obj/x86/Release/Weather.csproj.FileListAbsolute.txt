@@ -1,0 +1,10 @@
+D:\开发资料\Exercise\C#Winform\天气预报Webservice\A212330458-7272\okbase.net\Weather\Weather\bin\Release\Weather.exe
+D:\开发资料\Exercise\C#Winform\天气预报Webservice\A212330458-7272\okbase.net\Weather\Weather\bin\Release\Weather.pdb
+D:\开发资料\Exercise\C#Winform\天气预报Webservice\A212330458-7272\okbase.net\Weather\Weather\obj\x86\Release\Weather.csprojResolveAssemblyReference.cache
+D:\开发资料\Exercise\C#Winform\天气预报Webservice\A212330458-7272\okbase.net\Weather\Weather\obj\x86\Release\Weather.FormAbout.resources
+D:\开发资料\Exercise\C#Winform\天气预报Webservice\A212330458-7272\okbase.net\Weather\Weather\obj\x86\Release\Weather.FormMain.resources
+D:\开发资料\Exercise\C#Winform\天气预报Webservice\A212330458-7272\okbase.net\Weather\Weather\obj\x86\Release\Weather.FormSet.resources
+D:\开发资料\Exercise\C#Winform\天气预报Webservice\A212330458-7272\okbase.net\Weather\Weather\obj\x86\Release\Weather.Properties.Resources.resources
+D:\开发资料\Exercise\C#Winform\天气预报Webservice\A212330458-7272\okbase.net\Weather\Weather\obj\x86\Release\Weather.csproj.GenerateResource.Cache
+D:\开发资料\Exercise\C#Winform\天气预报Webservice\A212330458-7272\okbase.net\Weather\Weather\obj\x86\Release\Weather.exe
+D:\开发资料\Exercise\C#Winform\天气预报Webservice\A212330458-7272\okbase.net\Weather\Weather\obj\x86\Release\Weather.pdb
