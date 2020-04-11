@@ -1,0 +1,13 @@
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.9向线程传递参数\bin\Debug\netcoreapp3.1\1.9向线程传递参数.exe
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.9向线程传递参数\bin\Debug\netcoreapp3.1\1.9向线程传递参数.deps.json
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.9向线程传递参数\bin\Debug\netcoreapp3.1\1.9向线程传递参数.runtimeconfig.json
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.9向线程传递参数\bin\Debug\netcoreapp3.1\1.9向线程传递参数.runtimeconfig.dev.json
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.9向线程传递参数\bin\Debug\netcoreapp3.1\1.9向线程传递参数.dll
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.9向线程传递参数\bin\Debug\netcoreapp3.1\1.9向线程传递参数.pdb
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.9向线程传递参数\obj\Debug\netcoreapp3.1\1.9向线程传递参数.csprojAssemblyReference.cache
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.9向线程传递参数\obj\Debug\netcoreapp3.1\1.9向线程传递参数.csproj.CoreCompileInputs.cache
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.9向线程传递参数\obj\Debug\netcoreapp3.1\1.9向线程传递参数.AssemblyInfoInputs.cache
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.9向线程传递参数\obj\Debug\netcoreapp3.1\1.9向线程传递参数.AssemblyInfo.cs
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.9向线程传递参数\obj\Debug\netcoreapp3.1\1.9向线程传递参数.dll
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.9向线程传递参数\obj\Debug\netcoreapp3.1\1.9向线程传递参数.pdb
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.9向线程传递参数\obj\Debug\netcoreapp3.1\1.9向线程传递参数.genruntimeconfig.cache

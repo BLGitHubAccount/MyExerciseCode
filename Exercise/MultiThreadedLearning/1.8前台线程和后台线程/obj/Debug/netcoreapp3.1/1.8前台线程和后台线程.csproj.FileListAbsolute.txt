@@ -1,0 +1,13 @@
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.8前台线程和后台线程\bin\Debug\netcoreapp3.1\1.8前台线程和后台线程.exe
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.8前台线程和后台线程\bin\Debug\netcoreapp3.1\1.8前台线程和后台线程.deps.json
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.8前台线程和后台线程\bin\Debug\netcoreapp3.1\1.8前台线程和后台线程.runtimeconfig.json
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.8前台线程和后台线程\bin\Debug\netcoreapp3.1\1.8前台线程和后台线程.runtimeconfig.dev.json
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.8前台线程和后台线程\bin\Debug\netcoreapp3.1\1.8前台线程和后台线程.dll
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.8前台线程和后台线程\bin\Debug\netcoreapp3.1\1.8前台线程和后台线程.pdb
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.8前台线程和后台线程\obj\Debug\netcoreapp3.1\1.8前台线程和后台线程.csprojAssemblyReference.cache
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.8前台线程和后台线程\obj\Debug\netcoreapp3.1\1.8前台线程和后台线程.csproj.CoreCompileInputs.cache
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.8前台线程和后台线程\obj\Debug\netcoreapp3.1\1.8前台线程和后台线程.AssemblyInfoInputs.cache
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.8前台线程和后台线程\obj\Debug\netcoreapp3.1\1.8前台线程和后台线程.AssemblyInfo.cs
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.8前台线程和后台线程\obj\Debug\netcoreapp3.1\1.8前台线程和后台线程.dll
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.8前台线程和后台线程\obj\Debug\netcoreapp3.1\1.8前台线程和后台线程.pdb
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.8前台线程和后台线程\obj\Debug\netcoreapp3.1\1.8前台线程和后台线程.genruntimeconfig.cache

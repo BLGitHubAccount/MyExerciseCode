@@ -4,3 +4,10 @@ E:\开发资料\Exercise\MultiThreadedLearning\1.2使用CSharp创建线程\1.2�
 E:\开发资料\Exercise\MultiThreadedLearning\1.2使用CSharp创建线程\1.2使用CSharp创建线程\obj\Debug\1.2使用CSharp创建线程.csprojResolveAssemblyReference.cache
 E:\开发资料\Exercise\MultiThreadedLearning\1.2使用CSharp创建线程\1.2使用CSharp创建线程\obj\Debug\1.2使用CSharp创建线程.exe
 E:\开发资料\Exercise\MultiThreadedLearning\1.2使用CSharp创建线程\1.2使用CSharp创建线程\obj\Debug\1.2使用CSharp创建线程.pdb
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.2使用CSharp创建线程\1.2使用CSharp创建线程\bin\Debug\1.2使用CSharp创建线程.exe.config
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.2使用CSharp创建线程\1.2使用CSharp创建线程\bin\Debug\1.2使用CSharp创建线程.exe
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.2使用CSharp创建线程\1.2使用CSharp创建线程\bin\Debug\1.2使用CSharp创建线程.pdb
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.2使用CSharp创建线程\1.2使用CSharp创建线程\obj\Debug\1.2使用CSharp创建线程.csprojAssemblyReference.cache
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.2使用CSharp创建线程\1.2使用CSharp创建线程\obj\Debug\1.2使用CSharp创建线程.csproj.CoreCompileInputs.cache
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.2使用CSharp创建线程\1.2使用CSharp创建线程\obj\Debug\1.2使用CSharp创建线程.exe
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.2使用CSharp创建线程\1.2使用CSharp创建线程\obj\Debug\1.2使用CSharp创建线程.pdb
