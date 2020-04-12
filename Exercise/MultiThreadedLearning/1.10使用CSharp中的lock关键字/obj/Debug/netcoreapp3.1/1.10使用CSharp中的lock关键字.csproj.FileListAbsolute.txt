@@ -1,0 +1,13 @@
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.10使用CSharp中的lock关键字\bin\Debug\netcoreapp3.1\1.10使用CSharp中的lock关键字.exe
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.10使用CSharp中的lock关键字\bin\Debug\netcoreapp3.1\1.10使用CSharp中的lock关键字.deps.json
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.10使用CSharp中的lock关键字\bin\Debug\netcoreapp3.1\1.10使用CSharp中的lock关键字.runtimeconfig.json
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.10使用CSharp中的lock关键字\bin\Debug\netcoreapp3.1\1.10使用CSharp中的lock关键字.runtimeconfig.dev.json
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.10使用CSharp中的lock关键字\bin\Debug\netcoreapp3.1\1.10使用CSharp中的lock关键字.dll
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.10使用CSharp中的lock关键字\bin\Debug\netcoreapp3.1\1.10使用CSharp中的lock关键字.pdb
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.10使用CSharp中的lock关键字\obj\Debug\netcoreapp3.1\1.10使用CSharp中的lock关键字.csprojAssemblyReference.cache
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.10使用CSharp中的lock关键字\obj\Debug\netcoreapp3.1\1.10使用CSharp中的lock关键字.csproj.CoreCompileInputs.cache
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.10使用CSharp中的lock关键字\obj\Debug\netcoreapp3.1\1.10使用CSharp中的lock关键字.AssemblyInfoInputs.cache
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.10使用CSharp中的lock关键字\obj\Debug\netcoreapp3.1\1.10使用CSharp中的lock关键字.AssemblyInfo.cs
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.10使用CSharp中的lock关键字\obj\Debug\netcoreapp3.1\1.10使用CSharp中的lock关键字.dll
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.10使用CSharp中的lock关键字\obj\Debug\netcoreapp3.1\1.10使用CSharp中的lock关键字.pdb
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.10使用CSharp中的lock关键字\obj\Debug\netcoreapp3.1\1.10使用CSharp中的lock关键字.genruntimeconfig.cache
