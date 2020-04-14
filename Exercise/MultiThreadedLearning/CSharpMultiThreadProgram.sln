@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.12处理异常", "1.12处
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2执行基本的原子操作", "2.2执行基本的原子操作\2.2执行基本的原子操作.csproj", "{27908D0D-B79C-46AA-915B-732DDE211C7D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.2使用ConCurrentDictionary", "6.2使用ConCurrentDictionary\6.2使用ConCurrentDictionary.csproj", "{B1A37A97-3BFB-4600-BA21-364CF06E3896}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{27908D0D-B79C-46AA-915B-732DDE211C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27908D0D-B79C-46AA-915B-732DDE211C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27908D0D-B79C-46AA-915B-732DDE211C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1A37A97-3BFB-4600-BA21-364CF06E3896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1A37A97-3BFB-4600-BA21-364CF06E3896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1A37A97-3BFB-4600-BA21-364CF06E3896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1A37A97-3BFB-4600-BA21-364CF06E3896}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
