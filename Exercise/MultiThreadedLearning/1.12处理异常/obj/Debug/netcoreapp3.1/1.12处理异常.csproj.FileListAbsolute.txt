@@ -1,0 +1,12 @@
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.12处理异常\bin\Debug\netcoreapp3.1\1.12处理异常.exe
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.12处理异常\bin\Debug\netcoreapp3.1\1.12处理异常.deps.json
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.12处理异常\bin\Debug\netcoreapp3.1\1.12处理异常.runtimeconfig.json
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.12处理异常\bin\Debug\netcoreapp3.1\1.12处理异常.runtimeconfig.dev.json
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.12处理异常\bin\Debug\netcoreapp3.1\1.12处理异常.dll
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.12处理异常\bin\Debug\netcoreapp3.1\1.12处理异常.pdb
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.12处理异常\obj\Debug\netcoreapp3.1\1.12处理异常.csproj.CoreCompileInputs.cache
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.12处理异常\obj\Debug\netcoreapp3.1\1.12处理异常.AssemblyInfoInputs.cache
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.12处理异常\obj\Debug\netcoreapp3.1\1.12处理异常.AssemblyInfo.cs
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.12处理异常\obj\Debug\netcoreapp3.1\1.12处理异常.dll
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.12处理异常\obj\Debug\netcoreapp3.1\1.12处理异常.pdb
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\1.12处理异常\obj\Debug\netcoreapp3.1\1.12处理异常.genruntimeconfig.cache
