@@ -1,0 +1,12 @@
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\2.6使用ManualResetEventSlim\bin\Debug\netcoreapp3.1\2.6使用ManualResetEventSlim.exe
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\2.6使用ManualResetEventSlim\bin\Debug\netcoreapp3.1\2.6使用ManualResetEventSlim.deps.json
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\2.6使用ManualResetEventSlim\bin\Debug\netcoreapp3.1\2.6使用ManualResetEventSlim.runtimeconfig.json
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\2.6使用ManualResetEventSlim\bin\Debug\netcoreapp3.1\2.6使用ManualResetEventSlim.runtimeconfig.dev.json
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\2.6使用ManualResetEventSlim\bin\Debug\netcoreapp3.1\2.6使用ManualResetEventSlim.dll
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\2.6使用ManualResetEventSlim\bin\Debug\netcoreapp3.1\2.6使用ManualResetEventSlim.pdb
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\2.6使用ManualResetEventSlim\obj\Debug\netcoreapp3.1\2.6使用ManualResetEventSlim.csproj.CoreCompileInputs.cache
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\2.6使用ManualResetEventSlim\obj\Debug\netcoreapp3.1\2.6使用ManualResetEventSlim.AssemblyInfoInputs.cache
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\2.6使用ManualResetEventSlim\obj\Debug\netcoreapp3.1\2.6使用ManualResetEventSlim.AssemblyInfo.cs
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\2.6使用ManualResetEventSlim\obj\Debug\netcoreapp3.1\2.6使用ManualResetEventSlim.dll
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\2.6使用ManualResetEventSlim\obj\Debug\netcoreapp3.1\2.6使用ManualResetEventSlim.pdb
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\2.6使用ManualResetEventSlim\obj\Debug\netcoreapp3.1\2.6使用ManualResetEventSlim.genruntimeconfig.cache

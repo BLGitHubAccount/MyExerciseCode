@@ -1,0 +1,13 @@
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\2.5使用AutoResetEvent类\bin\Debug\netcoreapp3.1\2.5使用AutoResetEvent类.exe
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\2.5使用AutoResetEvent类\bin\Debug\netcoreapp3.1\2.5使用AutoResetEvent类.deps.json
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\2.5使用AutoResetEvent类\bin\Debug\netcoreapp3.1\2.5使用AutoResetEvent类.runtimeconfig.json
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\2.5使用AutoResetEvent类\bin\Debug\netcoreapp3.1\2.5使用AutoResetEvent类.runtimeconfig.dev.json
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\2.5使用AutoResetEvent类\bin\Debug\netcoreapp3.1\2.5使用AutoResetEvent类.dll
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\2.5使用AutoResetEvent类\bin\Debug\netcoreapp3.1\2.5使用AutoResetEvent类.pdb
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\2.5使用AutoResetEvent类\obj\Debug\netcoreapp3.1\2.5使用AutoResetEvent类.csproj.CoreCompileInputs.cache
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\2.5使用AutoResetEvent类\obj\Debug\netcoreapp3.1\2.5使用AutoResetEvent类.AssemblyInfoInputs.cache
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\2.5使用AutoResetEvent类\obj\Debug\netcoreapp3.1\2.5使用AutoResetEvent类.AssemblyInfo.cs
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\2.5使用AutoResetEvent类\obj\Debug\netcoreapp3.1\2.5使用AutoResetEvent类.dll
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\2.5使用AutoResetEvent类\obj\Debug\netcoreapp3.1\2.5使用AutoResetEvent类.pdb
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\2.5使用AutoResetEvent类\obj\Debug\netcoreapp3.1\2.5使用AutoResetEvent类.genruntimeconfig.cache
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\2.5使用AutoResetEvent类\obj\Debug\netcoreapp3.1\2.5使用AutoResetEvent类.csprojAssemblyReference.cache
