@@ -31,9 +31,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.3使用Mutex类", "2.3使
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.4使用SemaphoreSlim", "2.4使用SemaphoreSlim\2.4使用SemaphoreSlim.csproj", "{C793E5AF-2E64-4C00-9E6F-E272E9889440}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.5使用AutoResetEvent类", "2.5使用AutoResetEvent类\2.5使用AutoResetEvent类.csproj", "{58CD3D6D-D183-4AB0-AD84-B6E311DC1877}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.5使用AutoResetEvent类", "2.5使用AutoResetEvent类\2.5使用AutoResetEvent类.csproj", "{58CD3D6D-D183-4AB0-AD84-B6E311DC1877}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.6使用ManualResetEventSlim", "2.6使用ManualResetEventSlim\2.6使用ManualResetEventSlim.csproj", "{1C8C5443-17FB-49EE-A4E6-18E2A4216754}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.6使用ManualResetEventSlim", "2.6使用ManualResetEventSlim\2.6使用ManualResetEventSlim.csproj", "{1C8C5443-17FB-49EE-A4E6-18E2A4216754}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.7使用CountDownEvent类", "2.7使用CountDownEvent类\2.7使用CountDownEvent类.csproj", "{22F1125F-F7DF-4E0E-97CA-37701EB73829}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.8使用Barrier类", "2.8使用Barrier类\2.8使用Barrier类.csproj", "{0B7BF533-6391-490A-BA4B-112BDC4FD46A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.9使用ReaderWriterLockSlim类", "2.9使用ReaderWriterLockSlim类\2.9使用ReaderWriterLockSlim类.csproj", "{F1632881-2512-424B-A082-F2CF0C5A506C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +111,18 @@ Global
 		{1C8C5443-17FB-49EE-A4E6-18E2A4216754}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C8C5443-17FB-49EE-A4E6-18E2A4216754}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C8C5443-17FB-49EE-A4E6-18E2A4216754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22F1125F-F7DF-4E0E-97CA-37701EB73829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F1125F-F7DF-4E0E-97CA-37701EB73829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22F1125F-F7DF-4E0E-97CA-37701EB73829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22F1125F-F7DF-4E0E-97CA-37701EB73829}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B7BF533-6391-490A-BA4B-112BDC4FD46A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B7BF533-6391-490A-BA4B-112BDC4FD46A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B7BF533-6391-490A-BA4B-112BDC4FD46A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B7BF533-6391-490A-BA4B-112BDC4FD46A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1632881-2512-424B-A082-F2CF0C5A506C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1632881-2512-424B-A082-F2CF0C5A506C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1632881-2512-424B-A082-F2CF0C5A506C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1632881-2512-424B-A082-F2CF0C5A506C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
