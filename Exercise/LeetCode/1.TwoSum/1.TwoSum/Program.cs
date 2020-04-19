@@ -22,15 +22,14 @@ namespace _1.TwoSum
             if (nums == null || nums.Length == 0) return res;
             Dictionary<int, int> dic = new Dictionary<int, int>();
             for (int i = 0; i < nums.Length; i++)
-            {
-                int tag = target - nums[i];
-                if (dic.ContainsKey(tag))
+            {               
+                if (dic.ContainsKey(target - nums[i]))
                 {
-                    res[0] = dic[tag];
+                    res[0] = dic[target - nums[i]];
                     res[1] = i;
                     return res;
                 }
-                else { dic.Add(nums[i], i); }
+                else { if (!dic.ContainsKey(nums[i])) { dic.Add(nums[i], i); } }
             }
             return res;
         }
