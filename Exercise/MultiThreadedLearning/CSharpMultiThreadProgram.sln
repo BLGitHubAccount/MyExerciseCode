@@ -41,7 +41,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.8使用Barrier类", "2.8�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.9使用ReaderWriterLockSlim类", "2.9使用ReaderWriterLockSlim类\2.9使用ReaderWriterLockSlim类.csproj", "{F1632881-2512-424B-A082-F2CF0C5A506C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.10使用SpinWait类", "2.10使用SpinWait类\2.10使用SpinWait类.csproj", "{D09F0633-70B5-452A-9F68-D42AF91B1E2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.10使用SpinWait类", "2.10使用SpinWait类\2.10使用SpinWait类.csproj", "{D09F0633-70B5-452A-9F68-D42AF91B1E2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2在线程池中调用委托", "3.2在线程池中调用委托\3.2在线程池中调用委托.csproj", "{C8B3201E-BDE5-47A7-80A4-AA8B8E01626C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2在线程池中调用委托(.net framework)", "3.2在线程池中调用委托(.net framework)\3.2在线程池中调用委托(.net framework).csproj", "{4BE87896-3774-4845-9AA3-9869B87C9AE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.3向线程池中放入异步操作", "3.3向线程池中放入异步操作\3.3向线程池中放入异步操作.csproj", "{576800C5-3559-4EC4-B9D1-BBD947A9C9B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +135,18 @@ Global
 		{D09F0633-70B5-452A-9F68-D42AF91B1E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D09F0633-70B5-452A-9F68-D42AF91B1E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D09F0633-70B5-452A-9F68-D42AF91B1E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8B3201E-BDE5-47A7-80A4-AA8B8E01626C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8B3201E-BDE5-47A7-80A4-AA8B8E01626C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8B3201E-BDE5-47A7-80A4-AA8B8E01626C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8B3201E-BDE5-47A7-80A4-AA8B8E01626C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BE87896-3774-4845-9AA3-9869B87C9AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE87896-3774-4845-9AA3-9869B87C9AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE87896-3774-4845-9AA3-9869B87C9AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE87896-3774-4845-9AA3-9869B87C9AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{576800C5-3559-4EC4-B9D1-BBD947A9C9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576800C5-3559-4EC4-B9D1-BBD947A9C9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{576800C5-3559-4EC4-B9D1-BBD947A9C9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{576800C5-3559-4EC4-B9D1-BBD947A9C9B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

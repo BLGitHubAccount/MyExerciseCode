@@ -1,0 +1,7 @@
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\3.2在线程池中调用委托(.net framework)\bin\Debug\3.2在线程池中调用委托(.net framework).exe.config
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\3.2在线程池中调用委托(.net framework)\bin\Debug\3.2在线程池中调用委托(.net framework).exe
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\3.2在线程池中调用委托(.net framework)\bin\Debug\3.2在线程池中调用委托(.net framework).pdb
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\3.2在线程池中调用委托(.net framework)\obj\Debug\3.2在线程池中调用委托(.net framework).csprojAssemblyReference.cache
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\3.2在线程池中调用委托(.net framework)\obj\Debug\3.2在线程池中调用委托(.net framework).csproj.CoreCompileInputs.cache
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\3.2在线程池中调用委托(.net framework)\obj\Debug\3.2在线程池中调用委托(.net framework).exe
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\3.2在线程池中调用委托(.net framework)\obj\Debug\3.2在线程池中调用委托(.net framework).pdb
