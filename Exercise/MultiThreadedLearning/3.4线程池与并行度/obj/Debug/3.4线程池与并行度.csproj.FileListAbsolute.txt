@@ -1,0 +1,7 @@
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\3.4线程池与并行度\bin\Debug\3.4线程池与并行度.exe.config
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\3.4线程池与并行度\bin\Debug\3.4线程池与并行度.exe
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\3.4线程池与并行度\bin\Debug\3.4线程池与并行度.pdb
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\3.4线程池与并行度\obj\Debug\3.4线程池与并行度.csprojAssemblyReference.cache
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\3.4线程池与并行度\obj\Debug\3.4线程池与并行度.csproj.CoreCompileInputs.cache
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\3.4线程池与并行度\obj\Debug\3.4线程池与并行度.exe
+D:\MyDevelopment\MyCode\Exercise\MultiThreadedLearning\3.4线程池与并行度\obj\Debug\3.4线程池与并行度.pdb
