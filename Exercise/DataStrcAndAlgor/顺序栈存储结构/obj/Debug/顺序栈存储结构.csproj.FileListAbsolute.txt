@@ -1,0 +1,7 @@
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\顺序栈存储结构\bin\Debug\顺序栈存储结构.exe.config
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\顺序栈存储结构\bin\Debug\顺序栈存储结构.exe
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\顺序栈存储结构\bin\Debug\顺序栈存储结构.pdb
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\顺序栈存储结构\obj\Debug\顺序栈存储结构.csprojAssemblyReference.cache
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\顺序栈存储结构\obj\Debug\顺序栈存储结构.csproj.CoreCompileInputs.cache
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\顺序栈存储结构\obj\Debug\顺序栈存储结构.exe
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\顺序栈存储结构\obj\Debug\顺序栈存储结构.pdb
