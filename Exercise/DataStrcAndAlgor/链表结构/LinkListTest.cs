@@ -4,16 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace 线性表_链式春促结构
+namespace 线性表_链式存储结构
 {
   public  class LinkListTest
     {
 		/// <summary>
 		/// 单例模式
 		/// </summary>
-		private LinkListTest _instance;
+		private static LinkListTest _instance;
 
-		public LinkListTest Instance
+		public static LinkListTest Instance
 		{
 			get
 			{
@@ -51,9 +51,9 @@ namespace 线性表_链式春促结构
 			Count = 0;
 			for (int i = 0; i < datas.Length; i++)
 			{
-				Node<T> newNode = new Node<T>(datas[i]);
-				newNode.next = head;
-				head = newNode;
+				Node<T> newNode = new Node<T>(datas[i]);			
+				newNode.next = head.next;
+				head.next = newNode;
 				Count++;
 			}
 			return head;
@@ -87,7 +87,7 @@ namespace 线性表_链式春促结构
 			Node<T> temNode = head.next;
 			while (temNode!=null)
 			{
-				Console.WriteLine(temNode.Data+"+");
+				Console.Write(temNode.Data);
 				temNode = temNode.next;
 			}
 			
