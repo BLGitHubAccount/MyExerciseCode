@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.3向线程池中放入异
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.4线程池与并行度", "3.4线程池与并行度\3.4线程池与并行度.csproj", "{D081877D-5F65-4DBA-962F-8282B254AA11}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.7使用计时器", "3.7使用计时器\3.7使用计时器.csproj", "{A9AF9AFA-1778-45B5-9683-AA7AF78620ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{D081877D-5F65-4DBA-962F-8282B254AA11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D081877D-5F65-4DBA-962F-8282B254AA11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D081877D-5F65-4DBA-962F-8282B254AA11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9AF9AFA-1778-45B5-9683-AA7AF78620ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9AF9AFA-1778-45B5-9683-AA7AF78620ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9AF9AFA-1778-45B5-9683-AA7AF78620ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9AF9AFA-1778-45B5-9683-AA7AF78620ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

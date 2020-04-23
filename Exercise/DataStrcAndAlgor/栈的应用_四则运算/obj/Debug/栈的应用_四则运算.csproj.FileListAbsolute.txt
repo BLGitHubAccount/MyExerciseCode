@@ -1,0 +1,7 @@
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\栈的应用_四则运算\bin\Debug\栈的应用_四则运算.exe.config
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\栈的应用_四则运算\bin\Debug\栈的应用_四则运算.exe
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\栈的应用_四则运算\bin\Debug\栈的应用_四则运算.pdb
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\栈的应用_四则运算\obj\Debug\栈的应用_四则运算.csprojAssemblyReference.cache
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\栈的应用_四则运算\obj\Debug\栈的应用_四则运算.csproj.CoreCompileInputs.cache
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\栈的应用_四则运算\obj\Debug\栈的应用_四则运算.exe
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\栈的应用_四则运算\obj\Debug\栈的应用_四则运算.pdb
