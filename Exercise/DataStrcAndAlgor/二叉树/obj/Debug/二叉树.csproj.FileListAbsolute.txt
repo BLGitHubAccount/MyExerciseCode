@@ -1,0 +1,7 @@
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\二叉树\bin\Debug\二叉树.exe.config
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\二叉树\bin\Debug\二叉树.exe
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\二叉树\bin\Debug\二叉树.pdb
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\二叉树\obj\Debug\二叉树.csprojAssemblyReference.cache
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\二叉树\obj\Debug\二叉树.csproj.CoreCompileInputs.cache
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\二叉树\obj\Debug\二叉树.exe
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\二叉树\obj\Debug\二叉树.pdb
