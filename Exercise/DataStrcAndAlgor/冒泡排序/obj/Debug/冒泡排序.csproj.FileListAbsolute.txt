@@ -1,0 +1,7 @@
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\冒泡排序\bin\Debug\冒泡排序.exe.config
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\冒泡排序\bin\Debug\冒泡排序.exe
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\冒泡排序\bin\Debug\冒泡排序.pdb
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\冒泡排序\obj\Debug\冒泡排序.csprojAssemblyReference.cache
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\冒泡排序\obj\Debug\冒泡排序.csproj.CoreCompileInputs.cache
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\冒泡排序\obj\Debug\冒泡排序.exe
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\冒泡排序\obj\Debug\冒泡排序.pdb

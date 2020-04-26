@@ -1,0 +1,6 @@
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\Zip two lists\bin\Debug\Zip two lists.exe.config
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\Zip two lists\bin\Debug\Zip two lists.exe
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\Zip two lists\bin\Debug\Zip two lists.pdb
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\Zip two lists\obj\Debug\Zip two lists.csproj.CoreCompileInputs.cache
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\Zip two lists\obj\Debug\Zip two lists.exe
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\Zip two lists\obj\Debug\Zip two lists.pdb
