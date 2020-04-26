@@ -46,13 +46,15 @@ namespace 线性表_链式存储结构
 		/// <returns></returns>
 		public Node<T> CreateListHead<T>(T[] datas)
 		{
-			Node<T> head = new Node<T>();
+			Node<T> head = new Node<T>();			
 			head.next = null;
 			Count = 0;
 			for (int i = 0; i < datas.Length; i++)
 			{
-				Node<T> newNode = new Node<T>(datas[i]);			
-				newNode.next = head.next;
+				Node<T> newNode = new Node<T>(datas[i])
+				{
+					next = head.next
+				};
 				head.next = newNode;
 				Count++;
 			}
@@ -66,11 +68,14 @@ namespace 线性表_链式存储结构
 		/// <returns></returns>
 		public Node<T> CreateListTail<T>(T[] datas)
 		{
+			
 			Node<T> head = new Node<T>();
-			Node<T> tail = new Node<T>();
+			if (datas.Length == 0) return head;
+			Node<T> tail = new Node<T>(datas[0]);
+			//Node<T> tail = new Node<T>();
 			head.next = tail;
 			Count = 0;
-			for (int i = 0; i < datas.Length; i++)
+			for (int i = 1; i < datas.Length; i++)
 			{
 				Node<T> newNode = new Node<T>(datas[i]);
 				tail.next = newNode;
