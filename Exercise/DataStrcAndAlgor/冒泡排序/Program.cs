@@ -22,26 +22,23 @@ namespace 冒泡排序
 
        static int[] Short(int[] datas)
         {
-            //方法1 时间复杂度O(n^2)
-            //for (int i = 0; i < datas.Length-1; i++)
-            //{
-            //    for (int j = i; j < datas.Length - 1; j++)
-            //    {
-            //        if (datas[j] > datas[j + 1])
-            //            swap(datas, j, j + 1);
-            //    }
-
-            //}
-
-            //方法2 时间复杂度O(n^2)
-            for (int i = 0; i < datas.Length; i++)
+            ///时间复杂度O(n^2)
+            bool flag = true;
+            for (int i = 0; i < datas.Length - 1; i++)
             {
-                for (int j = i+1; j < datas.Length; j++)
+                flag = true;
+                for (int j = i; j < datas.Length - 1; j++)
                 {
-                    if (datas[i] > datas[j])
-                        swap(datas,i,j);                    
+                    if (datas[j] > datas[j + 1])
+                    { 
+                        swap(datas, j, j + 1);
+                        flag = false;
+                    }
                 }
+                if (flag) break;
+
             }
+
             return datas;
                  
         }

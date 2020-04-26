@@ -1,0 +1,7 @@
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\排序算法\bin\Debug\排序算法.exe.config
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\排序算法\bin\Debug\排序算法.exe
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\排序算法\bin\Debug\排序算法.pdb
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\排序算法\obj\Debug\排序算法.csprojAssemblyReference.cache
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\排序算法\obj\Debug\排序算法.csproj.CoreCompileInputs.cache
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\排序算法\obj\Debug\排序算法.exe
+D:\MyDevelopment\MyCode\Exercise\DataStrcAndAlgor\排序算法\obj\Debug\排序算法.pdb
