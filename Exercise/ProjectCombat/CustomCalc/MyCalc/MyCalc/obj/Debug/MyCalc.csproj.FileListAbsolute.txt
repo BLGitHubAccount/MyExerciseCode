@@ -1,0 +1,15 @@
+D:\MyDevelopment\MyCode\Exercise\ProjectCombat\CustomCalc\MyCalc\MyCalc\bin\Debug\MyCalc.exe.config
+D:\MyDevelopment\MyCode\Exercise\ProjectCombat\CustomCalc\MyCalc\MyCalc\bin\Debug\MyCalc.exe
+D:\MyDevelopment\MyCode\Exercise\ProjectCombat\CustomCalc\MyCalc\MyCalc\bin\Debug\MyCalc.pdb
+D:\MyDevelopment\MyCode\Exercise\ProjectCombat\CustomCalc\MyCalc\MyCalc\obj\Debug\MyCalc.csprojAssemblyReference.cache
+D:\MyDevelopment\MyCode\Exercise\ProjectCombat\CustomCalc\MyCalc\MyCalc\obj\Debug\MainWindow.g.cs
+D:\MyDevelopment\MyCode\Exercise\ProjectCombat\CustomCalc\MyCalc\MyCalc\obj\Debug\App.g.cs
+D:\MyDevelopment\MyCode\Exercise\ProjectCombat\CustomCalc\MyCalc\MyCalc\obj\Debug\MyCalc_MarkupCompile.cache
+D:\MyDevelopment\MyCode\Exercise\ProjectCombat\CustomCalc\MyCalc\MyCalc\obj\Debug\MyCalc_MarkupCompile.lref
+D:\MyDevelopment\MyCode\Exercise\ProjectCombat\CustomCalc\MyCalc\MyCalc\obj\Debug\MainWindow.baml
+D:\MyDevelopment\MyCode\Exercise\ProjectCombat\CustomCalc\MyCalc\MyCalc\obj\Debug\MyCalc.g.resources
+D:\MyDevelopment\MyCode\Exercise\ProjectCombat\CustomCalc\MyCalc\MyCalc\obj\Debug\MyCalc.Properties.Resources.resources
+D:\MyDevelopment\MyCode\Exercise\ProjectCombat\CustomCalc\MyCalc\MyCalc\obj\Debug\MyCalc.csproj.GenerateResource.cache
+D:\MyDevelopment\MyCode\Exercise\ProjectCombat\CustomCalc\MyCalc\MyCalc\obj\Debug\MyCalc.csproj.CoreCompileInputs.cache
+D:\MyDevelopment\MyCode\Exercise\ProjectCombat\CustomCalc\MyCalc\MyCalc\obj\Debug\MyCalc.exe
+D:\MyDevelopment\MyCode\Exercise\ProjectCombat\CustomCalc\MyCalc\MyCalc\obj\Debug\MyCalc.pdb
