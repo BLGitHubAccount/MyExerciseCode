@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\blj000\Desktop\学习\MyGitHub\MyExerciseCode\Exercise\WPF\TestUI\WpfApplication1\WpfApplication1\obj\Debug\
+C:\Users\blj000\Desktop\学习\MyGitHub\MyExerciseCode\Exercise\WPF\TestUI\WpfApplication1\WpfApplication1\obj\Release\
 WpfApplication1
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\blj000\Desktop\学习\MyGitHub\MyExerciseCode\Exercise\WPF\TestUI\WpfApplication1\WpfApplication1\App.xaml
 1219584333
 
