@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Stee.FGMS.CAD.Console.Control" Version="1.0.0.152" />
+    <PackageReference Include="Stee.FGMS.CAD.Console.Resources" Version="1.0.0.152" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WPFDemo.Control\WPFDemo.Control.csproj" />
+    <ProjectReference Include="..\WPFDemo.Resources\WPFDemo.Resources.csproj" />
+  </ItemGroup>
+
+</Project>

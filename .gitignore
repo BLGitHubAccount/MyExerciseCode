@@ -1,0 +1,13 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/Exercise/WPF/4GMSControl/WPFDemo/WpfApp1/bin/Debug/net6.0-windows
+/Exercise/WPF/4GMSControl/WPFDemo/.vs
+/Exercise/WPF/4GMSControl/WPFDemo/WpfApp1/obj
+/Exercise/WPF/4GMSControl/WPFDemo/WpfApp1/WPFDemo.csproj.user
+/Exercise/WPF/4GMSControl/WPFDemo/WPFDemo.Control/bin/Debug/net6.0-windows
+/Exercise/WPF/4GMSControl/WPFDemo/WPFDemo.Control/obj
+/Exercise/WPF/4GMSControl/WPFDemo/WPFDemo.Control/WPFDemo.Control.csproj.user
+/Exercise/WPF/4GMSControl/WPFDemo/WPFDemo.Resources/bin/Debug/net6.0-windows
+/Exercise/WPF/4GMSControl/WPFDemo/WPFDemo.Resources/obj
